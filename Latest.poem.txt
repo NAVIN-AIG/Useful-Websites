@@ -1,0 +1,49 @@
+General Information
+===================
+PIAM ID - C19904411
+CBD - 127906690813
+Badge id - 803660
+Org Unit - General Insurance
+Global Service Desk # : 1-800-435-7457
+EMEA HelpDesk # : 00 800 5656 5555
+
+Outlook Webapp
+==============
+
+https://em1owa.aig.com/owa/
+
+https://mysite3.contact.aig.net/sites/EmpProfile/Pages/Profile.aspx?accountname=R1%2DCore%5Cnavink&TrustedUser=1
+
+https://contact.aig.net/toolsandapps/Pages/TA.aspx
+
+https://confluence.aig.net:8443/display/DEVOPS/Standards+and+Best+Practices
+
+https://www.bbc.co.uk/news/uk-politics-46393399
+
+Webex
+=====
+
+https://aiguc.webex.com/meet/navin.kumar
+
+Time Sheet
+==========
+
+https://ppm-aig.saas.microfocus.com/itg/tm/ShowCreateTimeSheet.do
+
+Desk
+====
+
+https://conferenceservices.aig.net/EMSWebApp/Default.aspx
+
+
+RSA
+===
+
+https://paccasrsaidli01.r1-core.r1.aig.net:7004/console-selfservice/ExistingUser/ChangeSecure.do
+navink@r3-core.r3.aig.net
+
+
+https://share.connect.aig/:x:/t/EMEACM/EQ5cARHDSfhNrt72OLB3TogBvv_6A1dghnhkt5lV5kC1DQ?e=M4nPl4
+
+SCTASK2902213
+RTSK0582875
